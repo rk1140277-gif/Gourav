@@ -1,7 +1,4 @@
 {
-  "build": {
-    "builder": "NIXPACKS"
-  },
   "deploy": {
     "startCommand": "flameleaksapi.py",
     "restartPolicyType": "ON_FAILURE",
